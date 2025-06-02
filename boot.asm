@@ -1,3 +1,5 @@
 org 0x7c00
 bits 16
 cli
+
+mov ah,0xe9
